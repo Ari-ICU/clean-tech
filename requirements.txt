@@ -5,3 +5,4 @@ streamlit
 scikit-learn
 openpyxl
 xgboost
+plotly
